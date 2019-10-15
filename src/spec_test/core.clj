@@ -1,6 +1,5 @@
 (ns spec-test.core
-  (:require [clojure.spec.gen.alpha :as gen]
-            [clojure.spec.alpha :as s]
+  (:require [clojure.core.async :as async :refer :all]
             ;[spec-test.basic]
             ;[spec-test.compose-predicate]
             ;[spec-test.compose-spec]

@@ -2,39 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad048fa1-474c-48d2-90cf-dd1d9ee59394" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ClojureProjectResolveSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__clojure_complete_0_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__nrepl_0_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_clojure_1_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_core_specs_alpha_0_2_44.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_spec_alpha_0_2_176.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_test_check_0_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec-test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spec_test/basic.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spec_test/coll_spec.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spec_test/compose_predicate.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spec_test/compose_spec.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spec_test/core.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spec_test/generator.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spec_test/mulit_spec.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spec_test/range_spec.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spec_test/regx_spec.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spec_test/usage_for_data.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spec_test/usage_for_destruct.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spec_test/usage_for_file.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spec_test/usage_for_fn.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spec_test/usage_for_macro.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/spec_test/core_test.clj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_core_async_0_4_500.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_core_cache_0_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_core_memoize_0_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_data_priority_map_0_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_tools_analyzer_0_6_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_tools_analyzer_jvm_0_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_tools_reader_1_0_0_beta4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_ow2_asm_asm_all_4_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.clj" beforeDir="false" afterPath="$PROJECT_DIR$/project.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spec-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spec_test/core.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/spec_test/core.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spec_test/usage_for_fn.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/spec_test/usage_for_fn.clj" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,84 +31,42 @@
     <favorites_list name="spec-test" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spec_test/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="190">
+                <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/spec_test/usage_for_fn.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="149" column="37" lean-forward="true" selection-start-line="149" selection-start-column="37" selection-end-line="149" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spec_test/usage_for_data.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spec_test/regx_spec.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spec_test/compose_spec.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spec_test/mulit_spec.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spec_test/range_spec.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" selection-start-line="18" selection-end-line="19" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spec_test/compose_predicate.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spec_test/usage_for_macro.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spec_test/usage_for_file.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="303">
+              <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -136,7 +75,16 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spec_test/compose_spec.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -157,27 +105,27 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/spec_test/basic.clj" />
-        <option value="$PROJECT_DIR$/src/spec_test/compose_predicate.clj" />
         <option value="$PROJECT_DIR$/src/spec_test/compose_spec.clj" />
         <option value="$PROJECT_DIR$/src/spec_test/regx_spec.clj" />
         <option value="$PROJECT_DIR$/src/spec_test/mulit_spec.clj" />
-        <option value="$PROJECT_DIR$/project.clj" />
         <option value="$PROJECT_DIR$/src/spec_test/coll_spec.clj" />
         <option value="$PROJECT_DIR$/src/spec_test/generator.clj" />
         <option value="$PROJECT_DIR$/src/spec_test/range_spec.clj" />
         <option value="$PROJECT_DIR$/src/spec_test/usage_for_data.clj" />
         <option value="$PROJECT_DIR$/src/spec_test/usage_for_destruct.clj" />
-        <option value="$PROJECT_DIR$/src/spec_test/core.clj" />
         <option value="$PROJECT_DIR$/src/spec_test/usage_for_macro.clj" />
-        <option value="$PROJECT_DIR$/src/spec_test/usage_for_fn.clj" />
         <option value="$PROJECT_DIR$/src/spec_test/usage_for_file.clj" />
+        <option value="$PROJECT_DIR$/src/spec_test/compose_predicate.clj" />
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/src/spec_test/usage_for_fn.clj" />
+        <option value="$PROJECT_DIR$/src/spec_test/core.clj" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="232" />
+    <option name="x" value="300" />
+    <option name="y" value="186" />
     <option name="width" value="1389" />
     <option name="height" value="789" />
   </component>
@@ -198,8 +146,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,12 +241,16 @@
       <option name="presentableId" value="Default" />
       <updated>1567669870746</updated>
       <workItem from="1567669873909" duration="54607000" />
-      <workItem from="1567841457819" duration="17590000" />
+      <workItem from="1567841457819" duration="17835000" />
+      <workItem from="1567992683125" duration="348000" />
+      <workItem from="1569215746621" duration="4247000" />
+      <workItem from="1571138141533" duration="254000" />
+      <workItem from="1571138788251" duration="121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72197000" />
+    <option name="totallyTimeSpent" value="77412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -307,18 +259,18 @@
       <window_info id="Image Layers" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" sideWeight="0.18838029" side_tool="true" visible="true" weight="0.17053427" />
+      <window_info id="Favorites" order="3" sideWeight="0.18838029" side_tool="true" weight="0.17053427" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.8116197" visible="true" weight="0.17053427" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.8116197" visible="true" weight="0.22719914" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50026983" side_tool="true" weight="0.32386962" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" x="2064" y="311" width="1657" height="911" id="Terminal" order="4" visible="true" weight="0.4008439" />
+      <window_info anchor="bottom" x="2064" y="311" width="1657" height="911" id="Terminal" order="4" visible="true" weight="0.50738394" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49973017" weight="0.3270242" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49973017" weight="0.57067513" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.39957938" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -366,13 +318,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Throwable.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
@@ -381,13 +326,6 @@
             <element signature="e#2852#2853#0" expanded="true" />
             <element signature="e#2893#2894#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spec_test/basic.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -412,80 +350,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/spec_test/core.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/spec.alpha/0.2.176/spec.alpha-0.2.176.jar!/clojure/spec/test/alpha.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-19">
           <caret line="233" column="61" lean-forward="true" selection-start-line="233" selection-start-column="61" selection-end-line="233" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spec_test/coll_spec.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spec_test/usage_for_data.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spec_test/regx_spec.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spec_test/compose_spec.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spec_test/mulit_spec.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spec_test/range_spec.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" selection-start-line="18" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spec_test/usage_for_fn.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="149" column="37" lean-forward="true" selection-start-line="149" selection-start-column="37" selection-end-line="149" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spec_test/compose_predicate.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spec_test/usage_for_macro.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -496,6 +364,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/spec_test/usage_for_data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spec_test/regx_spec.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spec_test/mulit_spec.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spec_test/range_spec.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/spec_test/usage_for_file.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -503,10 +399,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/spec_test/usage_for_macro.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spec_test/basic.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spec_test/coll_spec.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spec_test/compose_predicate.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spec_test/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spec_test/compose_spec.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spec_test/usage_for_fn.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.hgignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

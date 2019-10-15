@@ -3,7 +3,7 @@
             [clojure.spec.alpha :as s]
             [clojure.test :as t]
             [clojure.spec.test.alpha :as stest]
-            [spec-test.compose-spec]))
+            [spec-test.compose-spec :as compose-spec]))
 
 ;;;-- Runtime check to define a fn spec -------------------------------------------------
 (defn person-name
@@ -48,8 +48,8 @@
 (defn person-name-assert
   [person]
   ;; s/assert fail, throw an Exception; success, return the value.
-  (let [p (s/assert ::person person)]
-    (str (::first-name p) " " (::last-name p))))
+  (let [p (s/assert ::compose-spec/person person)]
+    (str (::compose-spec/first-name p) " " (::compose-spec/last-name p))))
 
 ;; open the assert functionality
 (s/check-asserts true)
@@ -111,9 +111,9 @@
 ;; Use instrument :stub to generator return value for a function.
 ;; The return value generated is according to :ret spec
 ;; Do this, can mock a function.
-(defn invoke-service [service request]
+(defn invoke-service [service request])
   ;; invokes remote service
-  )
+
 
 (defn run-query [service query]
   (let [{::keys [result error]} (invoke-service service {::query query})]
