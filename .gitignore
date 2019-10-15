@@ -13,3 +13,5 @@ pom.xml.asc
 /resources
 /doc
 .idea/
+.lein-repl-history
+
